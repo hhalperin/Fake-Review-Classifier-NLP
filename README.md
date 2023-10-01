@@ -13,7 +13,6 @@ This project is centered around the design and implementation of a sophisticated
 - [Methodology](#methodology)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ---
 
