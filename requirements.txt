@@ -1,0 +1,13 @@
+langdetect
+syllables
+csv
+json
+requests
+nltk
+joblib
+matplotlib
+warnings
+numpy
+scikit-learn
+textblob
+tqdm
